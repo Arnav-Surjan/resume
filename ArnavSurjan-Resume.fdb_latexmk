@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1765341393.32364 "/Users/arnavsurjan/Documents/Development/resume/ArnavSurjan-Resume.tex" "ArnavSurjan-Resume.pdf" "ArnavSurjan-Resume" 1765341393.75941 0
-  "/Users/arnavsurjan/Documents/Development/resume/ArnavSurjan-Resume.tex" 1765341393.15558 9324 da319d5627fda0ef960bb7eeabf9782c ""
+["pdflatex"] 1765835430.36798 "/Users/arnavsurjan/Documents/Development/resume/ArnavSurjan-Resume.tex" "ArnavSurjan-Resume.pdf" "ArnavSurjan-Resume" 1765835430.82968 0
+  "/Users/arnavsurjan/Documents/Development/resume/ArnavSurjan-Resume.tex" 1765835430.64249 9322 162bcc6c8dfea4cfe5bddaab063151ac ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -87,9 +87,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1757103366 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "ArnavSurjan-Resume.aux" 1765341393.72305 837 ecfb47cf1ea52978d2ccbc2ad1b89174 "pdflatex"
-  "ArnavSurjan-Resume.out" 1765341393.72354 585 16317972560180a0d0838b92c964be02 "pdflatex"
-  "ArnavSurjan-Resume.tex" 1765341393.15558 9324 da319d5627fda0ef960bb7eeabf9782c ""
+  "ArnavSurjan-Resume.aux" 1765835430.78947 837 ecfb47cf1ea52978d2ccbc2ad1b89174 "pdflatex"
+  "ArnavSurjan-Resume.out" 1765835430.78998 585 16317972560180a0d0838b92c964be02 "pdflatex"
+  "ArnavSurjan-Resume.tex" 1765835430.64249 9322 162bcc6c8dfea4cfe5bddaab063151ac ""
   (generated)
   "ArnavSurjan-Resume.aux"
   "ArnavSurjan-Resume.log"
